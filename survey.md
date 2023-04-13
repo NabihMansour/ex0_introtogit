@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: white 
+Favorite food: sushi
+Favorite musician/band: the weeknd
+Favorite movie: interstellar
+Requested grade in the course: 95+
